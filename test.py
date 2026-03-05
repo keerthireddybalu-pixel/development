@@ -1,1 +1,2 @@
-xgc c bn
+print("Hello world!")
+print("this is a test file.")
